@@ -58,7 +58,7 @@ def fibonacci_2(n):
     return a
 
 
-res2 = fibonacci_2(500)
+res2 = fibonacci_2(1000)
 print(res2)
 
 
